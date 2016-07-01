@@ -64,11 +64,11 @@ I have used Spring Boot and Gradle for deploying the application. It was build i
 ---------------
 Palindrome result for query 
 `localhost:8080/palindromes?search=electricity&limit=1`
-![alt text](https://github.com/dipikam86/ZillionGroup/blob/masterimages/demo1.png "Spring Boot Run")
+![alt text](https://github.com/dipikam86/ZillionGroup/blob/master/images/demo1.png "Spring Boot Run")
 `localhost:8080/palindromes?search=electricity&limit=0`
-![alt text](https://github.com/dipikam86/ZillionGroup/blob/masterimages/demo3.png "Spring Boot Run")
+![alt text](https://github.com/dipikam86/ZillionGroup/blob/master/images/demo3.png "Spring Boot Run")
 `localhost:8080/palindromes?search=electricity&limit=6`
-![alt text](https://github.com/dipikam86/ZillionGroup/blob/masterimages/demo4.png "Spring Boot Run")
+![alt text](https://github.com/dipikam86/ZillionGroup/blob/master/images/demo4.png "Spring Boot Run")
 
 Thanks 
 --------------
