@@ -1,4 +1,4 @@
-# ZillionGroup
+# Palindrome Count
 API that searches NASA patents and determines the number of palindromic strings that can be created from inventor's name.
 
 
