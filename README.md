@@ -37,7 +37,8 @@ Following is the algorithm used to get the required count for the palindrome.
  Check if the number of characters is even then calculate with the formula : 
  `u^n/2`
   else if the number of characters is odd then calculate with the formula 
-  ```u^(n+1)/2
+  ```
+     u^(n+1)/2
      where u is unique chars
      and n is number of chars
   ```
