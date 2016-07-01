@@ -67,15 +67,22 @@ Palindrome result for query :
 
 `localhost:8080/palindromes?search=electricity&limit=1`
 
+### Response 
+ `{"palindromes":[{"name":"Geoffrey Bruder","count":4782969},{"name":"Rodger Dyson","count":1000000}],"error":null}`
+ 
 ![alt text](https://github.com/dipikam86/ZillionGroup/blob/master/images/demo1.png "Demo")
 
 
 `localhost:8080/palindromes?search=electricity&limit=0`
-
+### Response 
+ `{"palindromes":null,"error":"Please enter valid limit : min:1, max:5"}`
+  
 ![alt text](https://github.com/dipikam86/ZillionGroup/blob/master/images/demo3.png "Demo")
 
 `localhost:8080/palindromes?search=electricity&limit=6`
-
+### Response 
+ `{"palindromes":null,"error":"Please enter valid limit : min:1, max:5"}`
+ 
 ![alt text](https://github.com/dipikam86/ZillionGroup/blob/master/images/demo4.png "Demo")
 
 Thanks 
