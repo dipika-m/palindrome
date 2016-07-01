@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: zillion-palindrome-rest
+Implementation-Version: 0.1.0
+Built-By: dipika.mulchandani
+Implementation-Vendor-Id: org.sample
+Build-Jdk: 1.8.0_45
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
